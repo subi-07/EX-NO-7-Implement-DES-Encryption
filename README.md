@@ -44,8 +44,8 @@ int main()
 ```
 
 
-
 ## Output:
+<img width="585" height="331" alt="clip" src="https://github.com/user-attachments/assets/6a1138bd-2898-471c-92b9-b72409172b12" />
 
 
 ## Result:
